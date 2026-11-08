@@ -5,7 +5,6 @@
 ### Défauts de roulements : signaux 1D vs images GASF / GADF
 <div align="center">
 
-![Aperçu du projet](demo/banner.png)
 
 </div>
 
@@ -288,10 +287,6 @@ Projet semestriel (classe **IA22**), année académique **2025-2026**.
 
 > Ines Gardabbou
 
-> Mariam Gafsi
-
 > Nawres Rabbeg
-
-Encadré par **Mr Tarek Aroui**.
 
 ---
